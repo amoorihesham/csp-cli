@@ -19,7 +19,7 @@ jobs:
       contents: write
       issues: write
       pull-requests: write
-      id-token: write   # enables npm provenance
+      id-token: write # enables npm provenance
 
     steps:
       - name: Checkout (full history required by semantic-release)
@@ -36,7 +36,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Install dependencies
         run: pnpm install
