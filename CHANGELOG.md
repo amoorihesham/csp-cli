@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/amoorihesham/csp-cli/compare/v1.0.0...v1.1.0) (2026-04-24)
+
+
+### Features
+
+* fix the automated workflow bump node-v ([8b36e07](https://github.com/amoorihesham/csp-cli/commit/8b36e071503735f420746855b5749b077724a6b0))
+
 # 1.0.0 (2026-04-24)
 
 

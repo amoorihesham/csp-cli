@@ -1,6 +1,6 @@
 {
   "name": "csp-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CLI tool to scaffold a new Fastify TypeScript backend project from a GitHub starter template",
   "type": "module",
   "bin": {
