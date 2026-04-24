@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/amoorihesham/csp-cli/compare/v1.1.0...v1.2.0) (2026-04-24)
+
+
+### Features
+
+* fix the publish on npm ([3317dc8](https://github.com/amoorihesham/csp-cli/commit/3317dc84581c0f6a83405abf999d228b3515dccc))
+
 # [1.1.0](https://github.com/amoorihesham/csp-cli/compare/v1.0.0...v1.1.0) (2026-04-24)
 
 
