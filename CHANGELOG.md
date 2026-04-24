@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/amoorihesham/csp-cli/compare/v1.2.0...v1.2.1) (2026-04-24)
+
+
+### Bug Fixes
+
+* update package scope to [@start-develop](https://github.com/start-develop) org ([d3df8d8](https://github.com/amoorihesham/csp-cli/commit/d3df8d8becd25fe2859247a6b6667f2769e47978))
+
 # [1.2.0](https://github.com/amoorihesham/csp-cli/compare/v1.1.0...v1.2.0) (2026-04-24)
 
 
