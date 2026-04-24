@@ -1,3 +1,11 @@
+## [1.2.3](https://github.com/amoorihesham/csp-cli/compare/v1.2.2...v1.2.3) (2026-04-24)
+
+
+### Bug Fixes
+
+* switch build to tsup to resolve ESM module resolution error ([4ac1aee](https://github.com/amoorihesham/csp-cli/commit/4ac1aeead6321e4346573472e6017ff223cc1d60))
+* switch build to tsup to resolve ESM module resolution error ([457fa47](https://github.com/amoorihesham/csp-cli/commit/457fa471d824399f8af4af664c4b6cb9f653c872))
+
 ## [1.2.2](https://github.com/amoorihesham/csp-cli/compare/v1.2.1...v1.2.2) (2026-04-24)
 
 
