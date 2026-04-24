@@ -42,7 +42,9 @@
     "node": ">=18.0.0"
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md",
+    "CHANGELOG.md"
   ],
   "repository": {
     "type": "git",
