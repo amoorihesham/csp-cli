@@ -14,12 +14,16 @@ jobs:
     name: semantic-release
     runs-on: ubuntu-latest
 
+    # Skip the commit that semantic-release itself pushes back to main
+    # (chore(release): x.x.x [skip ci]) to avoid an infinite loop.
+    if: "!startsWith(github.event.head_commit.message, 'chore(release)')"
+
     # Required by semantic-release to push tags, create releases, and publish
     permissions:
       contents: write
       issues: write
       pull-requests: write
-      id-token: write # enables npm provenance
+      id-token: write   # enables npm provenance
 
     steps:
       - name: Checkout (full history required by semantic-release)
@@ -36,7 +40,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 24
+          node-version: 22
 
       - name: Install dependencies
         run: pnpm install
