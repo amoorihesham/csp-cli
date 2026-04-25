@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/amoorihesham/csp-cli/compare/v1.2.3...v1.3.0) (2026-04-25)
+
+
+### Features
+
+* add the latest fastify-template ([992e75d](https://github.com/amoorihesham/csp-cli/commit/992e75d2ace0df7fcf24861c6292355339402342))
+
 ## [1.2.3](https://github.com/amoorihesham/csp-cli/compare/v1.2.2...v1.2.3) (2026-04-24)
 
 
