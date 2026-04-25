@@ -4,8 +4,8 @@ export const TEMPLATES: TemplateDefinition[] = [
   {
     id: "fastify-ts",
     label: "Fastify TypeScript API",
-    repo: "amoorihesham/project-starter",
+    repo: "amoorihesham/fastify-starter",
     placeholder: "my-fastify-api",
-    deps: ["fastify", "drizzle-orm", "bcrypt", "zod", "dotenv", "pino"],
+    deps: ["fastify", "drizzle-orm", "zod", "eslint", "prettier", "tsup", "tsx"],
   },
 ];
